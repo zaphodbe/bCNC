@@ -6,3 +6,5 @@ lib/*.pyo
 bCNC.egg-info
 dist
 build
+*.vtg
+*.vpwhistu

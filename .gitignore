@@ -7,3 +7,5 @@ bCNC.egg-info
 .eggs
 dist
 build
+*.vtg
+*.vpwhistu
